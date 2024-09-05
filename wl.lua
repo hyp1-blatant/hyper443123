@@ -2,5 +2,6 @@ local users = {
   "Doggy1",
   "",
   "hello",
-  "sexyman"
+  "sexyman",
+  "fucktardnigga"
 }
