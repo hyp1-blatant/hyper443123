@@ -1,7 +1,8 @@
 local users = {
   "John Doe",
   "Buddy",
-  "hidude"
+  "hidude",
+  "duder"
 }
 
 return users
