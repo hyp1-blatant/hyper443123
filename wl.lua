@@ -1,4 +1,3 @@
 local users = {
-  "",
-  "HIbro"
+  "John Doe"
 }
